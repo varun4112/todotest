@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+form{
+    padding: 20px;
+}
+
+.Username,.Email,.Password,.task{
+    width: 100%;
+    margin-bottom:5px ;
+    padding: 3px;
+}
+
+.btn{
+    width: 100%;
+}
+
